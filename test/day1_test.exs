@@ -1,4 +1,4 @@
-defmodule AOC2022Test do
+defmodule AOC2022Test.Day1 do
   use ExUnit.Case
 
   import AOC2022.Utils

@@ -20,7 +20,6 @@ defmodule AOC2022Test.Day6 do
     assert res == 1953
   end
 
-
   test "part 2 sample" do
     stream = read_input("day6.txt")
 
